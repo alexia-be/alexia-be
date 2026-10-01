@@ -20,11 +20,13 @@ Check out my pinned repositories above. I'll keep adding new projects as I build
 1️⃣ Project: What it does
 
 
+Growing a little more with every project. 🌱
+
+
 
 📫 Let's connect
 LinkedIn: https://www.linkedin.com/in/alexia-be/
 
-Growing a little more with every project. 🌱
 
 <!--
 **alexia-be/alexia-be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
