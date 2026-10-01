@@ -5,10 +5,8 @@ Passionate and curious, building real projects while learning Python, APIs, auto
 I like understanding how things work, fixing what's broken, and always picking up new tools and technologies along the way.
 
 🔭 What I'm working on:
-🐍 Building small Python projects and scripts. 
-🔌 Learning how to work with REST APIs. 
-⚙️ Automating repetitive tasks. 
-📝 Learning in public and sharing my progress. 
+
+I'm building small Python projects and scripts, learning how to work with REST APIs, automating repetitive tasks, and sharing my progress along the way.
 
 🛠️ Skills & tools:
     Languages: Python. 
