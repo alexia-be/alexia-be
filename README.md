@@ -19,9 +19,7 @@ I like understanding how things work, fixing what's broken, and always picking u
 
 Check out my pinned repositories above. I'll keep adding new projects as I build them.
 
-  Project	                   What it does
-Project name	        One short sentence about it
-Project name	        One short sentence about it
+1️⃣ Project: What it does
   
 🌱 Currently learning
 Working with APIs in Python
