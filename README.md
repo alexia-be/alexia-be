@@ -20,11 +20,8 @@ I like understanding how things work, fixing what's broken, and always picking u
 Check out my pinned repositories above. I'll keep adding new projects as I build them.
 
 1️⃣ Project: What it does
-  
-🌱 Currently learning
-Working with APIs in Python
-Writing cleaner, more reusable code
-Automating tasks with scripts
+
+
 
 📫 Let's connect
 LinkedIn: https://www.linkedin.com/in/alexia-be/
